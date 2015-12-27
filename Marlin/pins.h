@@ -542,7 +542,7 @@
 
 
 // uncomment one of the following lines for RAMPS v1.3 or v1.0, comment both for v1.2 or 1.1
-// #define RAMPS_V_1_3
+#define RAMPS_V_1_3
 // #define RAMPS_V_1_0
 
 
@@ -769,8 +769,8 @@
       #ifdef REPRAP_DISCOUNT_SMART_CONTROLLER
         #define BEEPER 37
 
-        #define BTN_EN1 31
-        #define BTN_EN2 33
+        #define BTN_EN1 33
+        #define BTN_EN2 31
         #define BTN_ENC 35
 
         #define SDCARDDETECT 49

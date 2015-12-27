@@ -61,10 +61,11 @@
 #include <SPI.h>
 #endif
 
-#define VERSION_STRING  "1.0.0"
+#define VERSION_STRING  "1.0.2"
 
-// look here for descriptions of G-codes: http://linuxcnc.org/handbook/gcode/g-code.html
-// http://objects.reprap.org/wiki/Mendel_User_Manual:_RepRapGCodes
+// look here for descriptions of G-codes:
+// http://gnipsel.com/linuxcnc/g-code/index.html
+// http://reprap.org/wiki/RepRapGCodes
 
 //Implemented Codes
 //-------------------
